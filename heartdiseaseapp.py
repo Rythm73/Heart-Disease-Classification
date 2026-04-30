@@ -188,7 +188,7 @@ if st.button("Predict Risk", type="primary", use_container_width=True):
     plt.close()
  
     # Plain English explanation
-    st.subheader("Plain English Explanation")
+    st.subheader("Explanation")
  
     feature_names    = X_input.columns.tolist()
     shap_vals_single = sv[0]
