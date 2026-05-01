@@ -198,4 +198,4 @@ A score above 50% indicates likely presence of heart disease.
     )
 
 st.divider()
-st.caption("Built with Streamlit · Model: Random Forest (UCI Heart Disease) · Explainability: TreeSHAP")
+st.caption("Built with Streamlit ·")
