@@ -161,4 +161,4 @@ Pull requests are welcome. For major changes please open an issue first to discu
 
 ---
 
-*Built by [Gowthami Ratikrinda](https://github.com/Rythm73) · MS Computer Science, University of Michigan-Flint*
+*Built by [Gowthami Ratikrinda](https://github.com/Rythm73)
