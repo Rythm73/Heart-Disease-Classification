@@ -1,7 +1,7 @@
 # 🫀 Heart Disease Risk Predictor
 ### ML web app that predicts heart disease risk and tells you exactly why.
 
-**[🚀 Live Demo](https://heart-disease-classification-application.streamlit.app)** · **[📓 Notebook](Heart_Disease_Clean.ipynb)**
+**[🚀 Live Demo](https://heart-disease-preditcion.streamlit.app)** · **[📓 Notebook](Heart_Disease_Clean.ipynb)**
 
 ---
 
